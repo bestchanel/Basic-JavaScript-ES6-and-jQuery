@@ -7,12 +7,12 @@
 
 // คำสั่งในการแสดงผลข้อความออกไปที่หน้าเว็บ
 document.write("Hello JavaScript<br>");
-document.write("<b>ยินดีต้อนรับทุกท่าน</b>");
-document.write("<h1><font color='red'>ยินดีต้อนรับทุกท่าน</font></h1>");
+document.write("<b>ยินดีต้อนรับ</b>");
+document.write("<h1><font color='red'>ยินดีต้อนรับ</font></h1>");
 
 // การสร้างตัวแปรใน JavaScript
-var name = "Samit Koyom";
-var age = 28;
+var name = "Woraprat Charoenmueangphiaw";
+var age = 22;
 
 // แสดงผลไปที่ Console
 //console.log(name);
@@ -23,7 +23,7 @@ var age = 28;
 // console.log(status);
 
 // Method Prompt
-// var msg = prompt("กรุณาป้อนชื่อ", "สามิตร");
+// var msg = prompt("กรุณาป้อนชื่อ", "วรปรัชญ์");
 // console.log(msg);
 
 // Condition Operator
